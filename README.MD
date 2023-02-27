@@ -4,7 +4,7 @@ I'm James Brown, a Full Stack Web Developer living in Vancouver, BC. I love lear
 
 :mailbox: Get in touch!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Michael-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrgreen95/) [![Mail Badge](https://img.shields.io/badge/-Michael-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:greenmr1995@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-James-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesraymondbrown/) [![Mail Badge](https://img.shields.io/badge/-James-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jamesraymondbrown@gmail.com)
 
 - :computer: I recently built [Rentproof](https://github.com/jamesraymondbrown/rent-tracker), an app to track and analyze rent prices.
 - :books: Currently reading Clean Code (Robert Martin) with the LHL Alumni Book Club and A Pale View of Hills (Kazuo Ishiguro).
