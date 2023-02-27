@@ -8,7 +8,7 @@ I'm James Brown, a Full Stack Web Developer living in Vancouver, BC. I love lear
 
 - :computer: I recently built [Rentproof](https://github.com/jamesraymondbrown/rent-tracker), an app to track and analyze rent prices.
 - :books: Currently reading Clean Code (Robert Martin) with the LHL Alumni Book Club and A Pale View of Hills (Kazuo Ishiguro).
-- ⚡ Fun fact: I love making cocktails. Ask me about classic cocktails or the importance of keeping good ice in your freezer!
+- 🍹 Fun fact: I love making cocktails. Ask me about classic cocktails or the importance of keeping good ice in your freezer!
 
 ### 📈 Github Stats
 
