@@ -141,14 +141,18 @@ I'm James Brown, a Full Stack Web Developer living in Vancouver, BC.
       />
       <br /><strong>EJS</strong>
     </td>
-    <td align="center" height="108" width="108">
+  </tr>
+
+  <tr>
+  <td>Frameworks & Libraries</td>
+      <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"
         width="48"
         height="48"
         alt="Angular"
       />
-      <br /><strong>EJS</strong>
+      <br /><strong>Angular</strong>
     </td>
         <td align="center" height="108" width="108">
       <img
@@ -157,7 +161,7 @@ I'm James Brown, a Full Stack Web Developer living in Vancouver, BC.
         height="48"
         alt="NextJS"
       />
-      <br /><strong>EJS</strong>
+      <br /><strong>NextJS</strong>
     </td>
   </tr>
    
