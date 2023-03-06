@@ -7,7 +7,7 @@ I'm James Brown, a Full Stack Web Developer living in Vancouver, BC.
 [![Linkedin Badge](https://img.shields.io/badge/-James-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesraymondbrown/) [![Mail Badge](https://img.shields.io/badge/-James-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jamesraymondbrown@gmail.com)
 
 - 💻 I recently built [Rentproof](https://github.com/jamesraymondbrown/rent-tracker), an app to track and analyze rent prices.
-- 🧠 I’m currently working on an events app with my graduating classmates [Michael](https://github.com/JackDuluoz) and [Zak](https://github.com/Funk3). Stacks: MongoDB, Express, Angular w/ TypeScript.
+- 🧠 I’m currently working on an events app with my graduating classmates [Michael](https://github.com/JackDuluoz) and [Zak](https://github.com/Funk3). Stack: MongoDB, Express, Angular w/ TypeScript.
 - 📚 Currently reading Clean Code (Robert Martin) with the LHL Alumni Book Club and A Pale View of Hills (Kazuo Ishiguro).
 - 🍹 Fun fact: I love making cocktails. Ask me about classic cocktails or the importance of keeping good ice in your freezer!
 
