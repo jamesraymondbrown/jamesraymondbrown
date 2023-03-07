@@ -246,7 +246,7 @@ I'm James Brown, a Full Stack Web Developer living in Vancouver, BC.
   </tr>  
    
   <tr>
-    <td>Version Control</td>
+    <td>Version Control, Other</td>
     <td align="center" height="108" width="108">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -255,6 +255,15 @@ I'm James Brown, a Full Stack Web Developer living in Vancouver, BC.
         alt="Git"
       />
       <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" min-width="108">
+      <img
+        src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+        width="48"
+        height="48"
+        alt="FIGMA"
+      />
+      <br /><strong>Figma</strong>
     </td>
   </tr>   
 </table>
