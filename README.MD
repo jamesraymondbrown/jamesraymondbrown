@@ -8,7 +8,7 @@ I'm James Brown, a Full Stack Web Developer living in Vancouver, BC.
 
 - 💻 I recently built [Rentproof](https://github.com/jamesraymondbrown/rent-tracker), an app to track and analyze rent prices.
 - 🧠 I’m currently working on an events app with my graduating classmates [Michael](https://github.com/JackDuluoz) and [Zak](https://github.com/Funk3). Stack: MongoDB, Express, Angular w/ TypeScript.
-- 📚 Currently reading Clean Code (Robert Martin) with the LHL Alumni Book Club and A Pale View of Hills (Kazuo Ishiguro).
+- 📚 Currently reading Clean Code (Robert Martin) with the LHL Alumni Book Club and Killing Commendatore (Haruki Murakami).
 - 🍹 Fun fact: I love making cocktails. Ask me about classic cocktails or the importance of keeping good ice in your freezer!
 
 ### 📈 Github Stats
