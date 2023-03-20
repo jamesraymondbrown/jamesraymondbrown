@@ -74,6 +74,15 @@ I'm James Brown, a Full Stack Web Developer living in Vancouver, BC.
       />
       <br /><strong>SQL</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://user-images.githubusercontent.com/114964214/226435276-6d94566b-c5a2-43b2-b1ec-7eed7dcba76f.png"
+        width="48"
+        height="48"
+        alt="LIQUID"
+      />
+      <br /><strong>Shopify Liquid</strong>
+    </td>
   </tr>
     
   <tr>
