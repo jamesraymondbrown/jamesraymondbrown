@@ -172,6 +172,16 @@ I'm James Brown, a Full Stack Web Developer living in Vancouver, BC.
       />
       <br /><strong>NextJS</strong>
     </td>
+        </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://img.freepik.com/free-icon/shopify_318-627082.jpg"
+        width="48"
+        height="48"
+        alt="Shopify"
+      />
+      <br /><strong>Shopify</strong>
+    </td>
   </tr>
    
   <tr>
