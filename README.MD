@@ -11,6 +11,10 @@ I'm James Brown, a Full Stack Web Developer living in Vancouver, BC.
 - 📚 Currently reading Clean Code (Robert Martin) with the LHL Alumni Book Club and Killing Commendatore (Haruki Murakami).
 - 🍹 Fun fact: I love making cocktails. Ask me about classic cocktails or the importance of keeping good ice in your freezer!
 
+### 📈 Github Stats
+
+![jamesraymondbrown's github stats](https://github-readme-stats.vercel.app/api?username=jamesraymondbrown&count_private=true&theme=tokyonight&hide=contribs,prs)
+
 ### :computer: Top Technologies
 
 <table>  
