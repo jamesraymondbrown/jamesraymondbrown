@@ -162,16 +162,6 @@ I'm James Brown, a Full Stack Web Developer living in Vancouver, BC.
         alt="Angular"
       />
       <br /><strong>Angular</strong>
-    </td>
-        <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
-        width="48"
-        height="48"
-        alt="NextJS"
-      />
-      <br /><strong>NextJS</strong>
-    </td>
         </td>
         <td align="center" height="108" width="108">
       <img
