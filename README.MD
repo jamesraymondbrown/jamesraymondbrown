@@ -8,8 +8,8 @@ I'm James Brown, a Full Stack Web Developer living in Vancouver, BC.
 
 - 💻 I recently built [Rentproof](https://github.com/jamesraymondbrown/rent-tracker), an app to track and analyze rent prices.
 - 🧠 I’m currently working on an app called Cool or Nool, a revolutionary new service where people vote on things to decide if they are Cool or Nool (not cool). Stack: Next.js, Typescript, Tailwind, Vercel, PostgreSQL.
-- 📚 Currently reading Clean Code (Robert Martin) with the LHL Alumni Book Club and Killing Commendatore (Haruki Murakami).
-- 🍹 Fun fact: I love making cocktails. Ask me about classic cocktails or the importance of keeping good ice in your freezer!
+- 📚 Currently reading Eileen (Ottessa Moshfegh).
+- 🍹 Fun fact: I love making cocktails. Ask me about classic cocktails or the importance of keeping GOOD ice in your freezer!
 
 ### :computer: Top Technologies
 
